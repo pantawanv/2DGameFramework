@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configutation>
+	
+	<creatures>
+		<creature>
+		<name>Werewolve</name>
+		<hp>100</hp>
+		</creature>
+		
+		<creature>
+			<name>Vampire</name>
+			<hp>100</hp>
+		</creature>
+
+
+	</creatures>
+		
+		<attackitem>
+			<name>Sword</name>
+			<hit>20</hit>
+		</attackitem>
+
+		<defenceitem>
+			<name>Shield</name>
+			<reducehitpoint>40</reducehitpoint>
+		</defenceitem>
+
+	<worldobject>
+		<worldobject>
+			<name>
+				Tree
+			</name>
+		</worldobject>
+		<worldobject>
+			<name>
+				Rock
+			</name>
+		</worldobject>
+	</worldobject>
+
+	
+</configutation>
